@@ -1,3 +1,3 @@
 web:
 gunicorn
-server:app
+wsgi:app
