@@ -139,7 +139,6 @@ python-lsp-server==1.2.2
 python-slugify==5.0.2
 pytorch-pretrained-bert==0.6.2
 pytz==2019.3
-pywin32==301
 pywin32-ctypes==0.2.0
 pywsd==1.2.4
 PyYAML==5.4.1
